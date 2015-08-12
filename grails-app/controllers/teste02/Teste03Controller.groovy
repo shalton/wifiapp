@@ -1,6 +1,6 @@
 package teste02
 
 class Teste03Controller {
-
-    def index() { }
+	def scaffold = Teste03
+   // def index() { }
 }
