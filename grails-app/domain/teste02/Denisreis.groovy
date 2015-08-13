@@ -1,7 +1,9 @@
 package teste02
 
 class Denisreis {
-
-    static constraints = {
-    }
-}
+	String nome
+			static constraints = {
+				nome nullable:false, blank:false
+			}
+		}
+		
